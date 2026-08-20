@@ -1,5 +1,34 @@
-# Vue 3 + Vite
+# 🏨 Hotel Reservation - Vue.js
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A hotel reservation web application built with Vue.js, allowing users to check hotel availability and make reservations.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Features
+
+- 📅 Check hotel availability
+- 🛎️ Make reservations
+- 📱 Responsive design
+
+## 🛠️ Technologies
+
+- Vue.js
+- JavaScript
+- jQuery
+- Bootstrap
+- HTML5
+- CSS3
+
+## 📦 Installation
+
+Clone the repository:
+
+git clone https://github.com/tonaroze95/reservation-hotel-using-vue-js.git
+
+## 📸 Screenshots
+
+<img width="39" height="26" alt="image" src="https://github.com/user-attachments/assets/dcdd5467-9c98-4aa3-aa60-c41787722459" />
+
+<img width="1086" height="572" alt="image" src="https://github.com/user-attachments/assets/82f8d023-e828-4e36-8df3-c62b974afaba" />
+
+## 👩‍💻 Author
+
+Tonaroze
