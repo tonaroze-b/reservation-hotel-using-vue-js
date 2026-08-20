@@ -21,7 +21,7 @@ A hotel reservation web application built with Vue.js, allowing users to check h
 
 Clone the repository:
 
-git clone https://github.com/tonaroze95/reservation-hotel-using-vue-js.git
+git clone https://github.com/tonaroze-b/reservation-hotel-using-vue-js.git
 
 ## 📸 Screenshots
 <img width="1126" height="352" alt="image" src="https://github.com/user-attachments/assets/c9ed8669-e934-4536-a966-d13676c79113" />
